@@ -381,6 +381,8 @@ header {
   display: flex;
   flex-wrap: wrap;
   margin-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .feature {
   width: calc(100% / 3);
